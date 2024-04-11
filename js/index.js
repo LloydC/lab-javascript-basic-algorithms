@@ -1,6 +1,6 @@
 // Iteration 1: Names and Input
 
-let name = 'Lloyd'
+let firstName = 'Lloyd'
 let lastName = 'Chambrier'
 // Iteration 2: Conditionals
 if(){
